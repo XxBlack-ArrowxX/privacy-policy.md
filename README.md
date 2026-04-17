@@ -1,7 +1,6 @@
 # privacy-policy.md
 
-# Política de Privacidad - BotGeist
-#0481
+# Política de Privacidad - BotGeist#0481
 
 **Última actualización:** 17 de abril de 2026
 
